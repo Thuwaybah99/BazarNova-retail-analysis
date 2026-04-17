@@ -15,6 +15,9 @@ An interactive dashboard can be download [here]
 BazarNova's database structure as seen below consists of 6 tables: sales, product_names, product_hierarchy, city_names, store_names, store_cities with a total row count of 18,108 records.
 
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/81b1d06d3e739f361e2fad9085f96a961a97ebc0/photo_5985349201623190575_y.jpg)
+
+Prior to beginning the analysis, a veriety of cleaning steps were condected and the finle file can be downloaded from [here](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/34901fe5e6acc3059e5dfe1c2b8038c92c2ee753/Clean%20all%20in%20one.xls).
+
 # Data Gabs
 # Executive Summary
 # Inside deep dive
