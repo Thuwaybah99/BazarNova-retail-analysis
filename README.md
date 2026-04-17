@@ -8,8 +8,8 @@ Insight and recommendation are provided in the following key areas:
 * Seasonal & Time-Based Trends: Exploring how sales fluctuate across different seasons, months, and time periods to uncover patterns and peak performance windows.
 * Promotional Impact Analysis: Measuring the effectiveness of promotional campaigns and discounts on sales performance and customer behavior.
 * Regional & Store Performance: Analyzing sales performance across different regions and store locations to identify strengths, weaknesses, and growth opportunities.
-
-
+An interactive dashboard can be download here.
+The after clean all in one file can be found here
 # Data Structure Overview
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/81b1d06d3e739f361e2fad9085f96a961a97ebc0/photo_5985349201623190575_y.jpg)
 # Data Gabs
