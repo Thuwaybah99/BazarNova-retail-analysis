@@ -9,7 +9,7 @@ Insight and recommendation are provided in the following key areas:
 * Promotional Impact Analysis: Measuring the effectiveness of promotional campaigns and discounts on sales performance and customer behavior.
 * Regional & Store Performance: Analyzing sales performance across different regions and store locations to identify strengths, weaknesses, and growth opportunities.
 
-An interactive dashboard can be download [here]
+An interactive dashboard can be download [here](https://public.tableau.com/authoring/BazarNova_Project/Dashboard1#1)
 
 # Data Structure Overview
 BazarNova's database structure as seen below consists of 6 tables: sales, product_names, product_hierarchy, city_names, store_names, store_cities with a total row count of 18,108 records.
