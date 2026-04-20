@@ -20,7 +20,7 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 
 # Executive Summary
 ### Sales Trends:
-
+![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/f74071b7002c941819f16703e596629006c1d13e/17.jpg)
 
 ### Product Performance:
 
