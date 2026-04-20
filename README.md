@@ -19,7 +19,14 @@ BazarNova's database structure as seen below consists of 6 tables: sales, produc
 Prior to beginning the analysis, a veriety of cleaning steps were condected and the finle file can be downloaded from [here](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/34901fe5e6acc3059e5dfe1c2b8038c92c2ee753/Clean%20all%20in%20one.xls).
 
 # Executive Summary
-# Inside deep dive
+### Sales Trends:
+
+
+### Product Performance:
+
+### Promotion impact:
+
+### Store Performance:
 
 # Data Gabs
 Although the majority of the data was well-structured and useful for conducting a comprehensive analysis, certain gaps and inconsistencies were identified and should be taken into consideration. These missing elements and areas requiring clarification are outlined as follows:
