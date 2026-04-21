@@ -23,7 +23,8 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/f74071b7002c941819f16703e596629006c1d13e/17.jpg)
 
 ### Product Performance:
-* (H00) hierarch outperformed the other 3 hierarchy performing 72% of the total sales that results in a revenue of 15,460 [here](https://public.tableau.com/authoring/BazarNova_Project/Dashboard1/Top%20Hierchy%20by%20Sales#1)
+* (H01) hierarch outperformed the other 3 hierarchy performing 00% of the total sales that results in a revenue of 000 [here](https://public.tableau.com/authoring/BazarNova_Project/Dashboard1/Top%20Hierchy%20by%20Sales#1)
+* The top 3 products in sales where Nano Gril flow, Hand Held Milk Frother, and Power Dryer flow representing 9% of total revenue. [here](https://public.tableau.com/authoring/BazarNova_Project/ProductsPerformance#1)
 ### Promotion impact:
 
 ### Store Performance:
