@@ -24,6 +24,7 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 
 ### Product Performance:
 * (H01) hierarchy scored 1,433 sales records that results in 50% of total revenue [here](https://public.tableau.com/authoring/BazarNova_Project/Dashboard1/Top%20Hierchy%20by%20Sales#1)
+* (H00) Scored the highest in sales 72.6% a total of total sales [here](https://public.tableau.com/authoring/BazarNova_Project/Dashboard1/Top%20Hierchy%20by%20Sales#1)
 * The top 3 products in sales where Nano Gril flow, Hand Held Milk Frother, and Power Dryer flow representing 9% of total revenue. [here](https://public.tableau.com/authoring/BazarNova_Project/ProductsPerformance#1)
 ### Promotion impact:
 
