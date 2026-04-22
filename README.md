@@ -53,6 +53,7 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 
 
 ### Promotion impact:
+* Promotion 14 was the top-performing campaign, significantly outperforming all other promotions with approximately 9,000 total sales that resulted in 57% of total revenue, making it the strongest driver of revenue in the dataset.
 
 ### Store Performance:
 
