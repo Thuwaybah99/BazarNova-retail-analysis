@@ -56,6 +56,8 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/1479dd37055829e8406ee377250a52a22bfe6d83/aaaaaa.jpg)
 * Promotion 14 was the top-performing campaign, significantly outperforming all other promotions with approximately 9,000 total sales that resulted in 57% of total revenue, making it the strongest driver of revenue in the dataset.
 
+An interactive dashboard representing the promotion impact can be found [here](https://public.tableau.com/authoring/BazarNova_Project/Promoperformance#1)
+
 ### Store Performance:
 
 # Data Gabs
