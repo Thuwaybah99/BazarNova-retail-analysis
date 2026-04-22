@@ -56,7 +56,6 @@ An interactive dashboard representing product performance can be found [here](ht
 * Hierarchy H02 demonstrated consistently poor performance across most promotions, with little to no sales activity recorded. The only notable exception was Promotion 14, which generated 2.5% of sales within this hierarchy.
 * Other hierarchies generally showed broader positive engagement across multiple promotions, indicating stronger responsiveness compared to H02.
 * Promotion 16 sales were 100% concentrated in Hierarchy H01, suggesting this promotion had a highly specific appeal within that segment only.
-
   
 An interactive dashboard representing the promotion impact can be found [here](https://public.tableau.com/authoring/BazarNova_Project/Promoperformance#1)
 
@@ -66,6 +65,11 @@ An interactive dashboard representing the promotion impact can be found [here](h
 
 
 ### Store Performance:
+![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/cc8c8d7cb40719529aa647151672bf8d4d77a10d/Store%20Performance.jpg)
+
+
+
+
 
 # Data Gabs
 Although the majority of the data was well-structured and useful for conducting a comprehensive analysis, certain gaps and inconsistencies were identified and should be taken into consideration. These missing elements and areas requiring clarification are outlined as follows:
