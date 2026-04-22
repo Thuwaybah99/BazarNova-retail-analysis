@@ -51,8 +51,19 @@ An interactive dashboard representing product performance can be found [here](ht
 ### Promotion impact:
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/1479dd37055829e8406ee377250a52a22bfe6d83/aaaaaa.jpg)
 * Promotion 14 was the top-performing campaign, significantly outperforming all other promotions with approximately 9,000 total sales that resulted in 57% of total revenue, making it the strongest driver of revenue in the dataset.
+* Several promotions showed weak or minimal performance, particularly Promo 03, Promo 07, Promo 08, and Promo 09, indicating these campaigns may require review, redesign, or discontinuation.
+* 85% of Promotion 14 sales came from Hierarchy H00, suggesting this segment responded exceptionally well to the campaign.
+* Hierarchy H02 demonstrated consistently poor performance across most promotions, with little to no sales activity recorded. The only notable exception was Promotion 14, which generated 2.5% of sales within this hierarchy.
+* Other hierarchies generally showed broader positive engagement across multiple promotions, indicating stronger responsiveness compared to H02.
+* Promotion 16 sales were 100% concentrated in Hierarchy H01, suggesting this promotion had a highly specific appeal within that segment only.
 
+  
 An interactive dashboard representing the promotion impact can be found [here](https://public.tableau.com/authoring/BazarNova_Project/Promoperformance#1)
+
+
+
+
+
 
 ### Store Performance:
 
