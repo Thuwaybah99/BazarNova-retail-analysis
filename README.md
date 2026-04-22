@@ -33,7 +33,7 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 
 # Executive Summary
 ### Sales Trends:
-![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/f74071b7002c941819f16703e596629006c1d13e/17.jpg)
+![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/d0a9b5efcd78324128a6cdb6bffca7878e0f9078/Sales%20over%20time.jpg)
 
 
 
