@@ -65,14 +65,14 @@ An interactive dashboard representing the promotion impact can be found [here](h
 
 
 ### Store Performance:
-![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/cc8c8d7cb40719529aa647151672bf8d4d77a10d/Store%20Performance.jpg)
+![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/c3cffb71567d1d8dd3403b0e04e28c0c61282f79/Store%20Performance.jpg)
 * DIGI and Electro World (National) are the top-performing stores, showing 70% of total sales and 76% of total revenue compared to the other stores.
 * Both stores demonstrate similar revenue levels, although DIGI slightly outperforms in total sales.
 * The majority of revenue for both DIGI and Electro World (National) is driven by the H01 category, indicating it is the primary revenue contributor.
 * In contrast, the H00 category dominates sales volume across these stores, suggesting high transaction frequency but potentially lower pricing.
 * Overall, performance differences across stores suggest that product category mix plays a key role in driving both sales and revenue outcomes.
 
-An interactive dashboard representing store performance can be found [here](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/c3cffb71567d1d8dd3403b0e04e28c0c61282f79/Store%20Performance.jpg)
+An interactive dashboard representing store performance can be found [here](https://public.tableau.com/authoring/BazarNova_Project/Storesperformance#1)
 
 
 
