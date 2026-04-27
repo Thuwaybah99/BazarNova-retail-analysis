@@ -86,11 +86,12 @@ An interactive dashboard representing store performance can be found [here](http
 
 
 # Data Gabs
-Although the majority of the data was well-structured and useful for conducting a comprehensive analysis, certain gaps and inconsistencies were identified and should be taken into consideration. These missing elements and areas requiring clarification are outlined as follows:
-* 1
-* 2
-* 3
-* 3
+While the dataset provides a solid foundation for analysis, it is important to acknowledge certain limitations that may impact the completeness and generalizability of the findings.
+
+
+Limited store coverage in the dataset: Although the company operates 144 stores, only 6 stores were included in this analysis. This means the findings may not fully represent overall business performance across all locations, and broader store data would improve the accuracy and reliability of insights.
+
+
 # Recommendations
 
 
