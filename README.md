@@ -34,8 +34,15 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 # Executive Summary
 ### Sales Trends:
 ![Dashboard Preview](https://github.com/Thuwaybah99/BazarNova-retail-analysis/blob/d0a9b5efcd78324128a6cdb6bffca7878e0f9078/Sales%20over%20time.jpg)
+* Sales remained relatively stable and within an average of 480 sales during the early months (April–August).
+* A gradual upward trend began from August, indicating improving performance.
+* Sales continued to increase steadily through September, October, and November.
+* A significant spike occurs in December, marking the highest sales point of the year 54% of total sales.
+* The December surge represents an extreme increase (≈120%) compared to earlier months.
+* This sharp rise suggests a strong seasonal effect, likely driven by end-of-year demand.
+* Overall, the trend shows a shift from stable performance to accelerated growth in the final quarter.
 
-
+An interactive dashboard representing sales trend over time can be found [here](https://public.tableau.com/authoring/BazarNova_Project/Salesovertime#1).
 
 
 ### Product Performance:
@@ -43,6 +50,7 @@ Prior to beginning the analysis, a veriety of cleaning steps were condected and 
 * (H01) hierarchy scored 1,433 sales records that results in 50% of total revenue.
 * (H00) Scored the highest in sales 72.6% a total of total sales.
 * The top 3 products in sales where Nano Gril flow, Hand Held Milk Frother, and Power Dryer flow representing 9% of total revenue.
+
 An interactive dashboard representing product performance can be found [here](https://public.tableau.com/authoring/BazarNova_Project/ProductsPerformance#1) and hierarchy performance [here](https://public.tableau.com/authoring/BazarNova_Project/TopHierchybyRevenue#1).
 
 
