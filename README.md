@@ -93,5 +93,21 @@ Limited store coverage in the dataset: Although the company operates 144 stores,
 
 
 # Recommendations
+Based on the key insights derived from the analysis, the following recommendations are proposed to enhance sales performance, optimize promotional strategies, and support data-driven decision-making across the business.
 
+* Leverage high-performing hierarchies: Focus on expanding and promoting products within H01 and H00, as they are the primary drivers of revenue and sales. Increasing inventory and visibility for these categories can further boost performance.
+
+* Capitalize on seasonal demand: Since sales spike significantly in December, implement early promotional campaigns and stock planning starting from Q3 to maximize end-of-year revenue opportunities.
+
+* Optimize promotional strategy: Replicate the success factors behind Promotion 14 across other campaigns, while reassessing or discontinuing underperforming promotions such as Promo 03, 07, 08, and 09.
+
+* Target hierarchy-specific promotions: Tailor campaigns to specific product hierarchies, as seen with Promotion 16 (H01) and Promotion 14 (H00), to improve engagement and conversion rates.
+
+* Improve underperforming categories: Investigate H02’s low performance by reviewing product relevance, pricing, or marketing efforts, and consider repositioning or reducing focus if performance does not improve.
+
+* Enhance store-level strategies: Analyze and replicate the strategies of top-performing stores like DIGI and Electro World (National) across other locations to improve overall performance.
+
+* Balance sales and revenue mix: Since high sales volume (H00) does not always translate to high revenue, focus on upselling higher-margin products (H01) to improve profitability.
+
+* Expand data coverage: Incorporate data from all 144 stores to enable more accurate insights and better decision-making at a company-wide level.
 
